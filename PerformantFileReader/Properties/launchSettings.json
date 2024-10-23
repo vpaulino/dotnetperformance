@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PerformantFileReader": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
